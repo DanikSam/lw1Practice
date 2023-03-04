@@ -1,0 +1,15 @@
+C:\users\samok\repositories\lw1Practice\bin\Debug\net7.0\lw1Practice.exe
+C:\users\samok\repositories\lw1Practice\bin\Debug\net7.0\lw1Practice.deps.json
+C:\users\samok\repositories\lw1Practice\bin\Debug\net7.0\lw1Practice.runtimeconfig.json
+C:\users\samok\repositories\lw1Practice\bin\Debug\net7.0\lw1Practice.dll
+C:\users\samok\repositories\lw1Practice\bin\Debug\net7.0\lw1Practice.pdb
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.csproj.AssemblyReference.cache
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.AssemblyInfoInputs.cache
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.AssemblyInfo.cs
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.csproj.CoreCompileInputs.cache
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.dll
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\refint\lw1Practice.dll
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.pdb
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\lw1Practice.genruntimeconfig.cache
+C:\users\samok\repositories\lw1Practice\obj\Debug\net7.0\ref\lw1Practice.dll
