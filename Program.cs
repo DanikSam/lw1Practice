@@ -11,6 +11,9 @@
             Person person = new Person("Man");
             person.Name = "Daniil";
             Console.WriteLine(person.Name); 
+            // remote_rep
+            //uptream
+            //remote repository management
         }
     }
 }
